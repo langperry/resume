@@ -20,12 +20,12 @@
 ## 专业技能
 
    - 拥有扎实的JavaSE基础、面向对象编程思想、良好的编码习惯和Debug调错能力；
-    - 熟练掌握SpringMVC、Spring、SpringBoot、Mybatis等主流框架，了解Vert.x框架；
-    - 熟练使用Redis、Dubbo、ActiveMQ、ZooKeeper等分布式应用技术；
-    - 熟悉常用的关系型数据库MySQL，熟练的使用SQL和PL/SQL进行数据库编程；
-    - 熟悉JavaScript、Ajax、jQuery等WEB前端技术，熟悉RESTful设计风格；
-    - 熟练使用IDEA、Git、Maven、Docker等工具，熟练使用Linux操作系统；
-	- 熟悉Apache、Nginx、Tomcat等Web服务器和应用服务器的使用，熟悉多种服务器整合、集群和负载均衡的配置。
+   - 熟练掌握SpringMVC、Spring、SpringBoot、Mybatis等主流框架，了解Vert.x框架；
+   - 熟练使用Redis、Dubbo、ActiveMQ、ZooKeeper等分布式应用技术；
+   - 熟悉常用的关系型数据库MySQL，熟练的使用SQL和PL/SQL进行数据库编程；
+   - 熟悉JavaScript、Ajax、jQuery等WEB前端技术，熟悉RESTful设计风格；
+   - 熟练使用IDEA、Git、Maven、Docker等工具，熟练使用Linux操作系统；
+   - 熟悉Apache、Nginx、Tomcat等Web服务器和应用服务器的使用，熟悉多种服务器整合、集群和负载均衡的配置。
 
 ## 工作经历
 
